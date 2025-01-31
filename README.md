@@ -1,6 +1,6 @@
 # Portfolio-Akshay-Pimpale
 
-Click Here to see  👉[My Portfolio]()👈
+Click Here to see  👉[My Portfolio](https://akshaypimpale.netlify.app/)👈
 
 # Akshay's Portfolio 💎
 
@@ -22,25 +22,26 @@ Welcome to the repository for Akshay Pimpale's personal portfolio website. This 
 
 ## Features 💡
 - Responsive Design: The portfolio is fully responsive and works well on various devices and screen sizes.
-- Multiple Color Themes: Users can switch between different color themes.
+- Multiple Color Themes: Users can switch between different colour themes.
 - Sections:
   - Home
   - About
+  - Projects
+  - Achievement
   - Services
-  - Portfolio
   - Contact
 
 ## Usage 👩🏻‍💻
 ### Navigation 💻
 - Home: Introduction and brief overview.
 - About: Detailed information about Akshay's background.
-- Services: A list of services AKshay offers, such as Software development and Web developement.
+- Services: A list of services AKshay offers, such as Software development and Web development.
 - Portfolio: Display of Akshay's projects with links to their respective repositories.
 - Contact: Information on how to get in touch with Akshay, including email and social media links.
 
 ### Switching Color Themes 📌
 - Open the style switcher by clicking the gear icon.
-- Choose your preferred color theme.
+- Choose your preferred colour theme.
 
 ### Contact Form 📑
 - Fill out the form with your name, email, subject, and message.
